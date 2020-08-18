@@ -1,5 +1,5 @@
 ---
-title: Cloudverse Blog
+title: Cloudverse Podcast
 
 # View.
 #   1 = List
